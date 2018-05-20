@@ -21,7 +21,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "jdodson.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jdodson
 github_username:  jdodson
-image: images/current_profile.jpg
+image: images/headshots/main_shot_cropped_600.jpg
 # Build settings
 markdown: kramdown
 #theme: minima
