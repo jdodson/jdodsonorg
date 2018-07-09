@@ -6,7 +6,7 @@
 # install
 
     gem install bundle
-      bundle
+    bundle
 
 # serve the pages and regenerate when there is a change
     bundle exec jekyll serve --watch
