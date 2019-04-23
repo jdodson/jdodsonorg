@@ -1,5 +1,6 @@
 # jdodson.org uses
 
+* Ruby 2.5.5
 * jekyll
 * bootstrap 4
 
